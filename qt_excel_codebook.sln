@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.34112.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "qt_excel_codebook", "qt_excel_codebook\qt_excel_codebook.vcxproj", "{6E8EA62E-8779-47D5-8BF9-0B0E56511FB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E8EA62E-8779-47D5-8BF9-0B0E56511FB7}.Debug|x86.ActiveCfg = Debug|Win32
+		{6E8EA62E-8779-47D5-8BF9-0B0E56511FB7}.Debug|x86.Build.0 = Debug|Win32
+		{6E8EA62E-8779-47D5-8BF9-0B0E56511FB7}.Release|x86.ActiveCfg = Release|Win32
+		{6E8EA62E-8779-47D5-8BF9-0B0E56511FB7}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAA6E85A-71F3-4F00-AF55-08AF072526F0}
+	EndGlobalSection
+EndGlobal
